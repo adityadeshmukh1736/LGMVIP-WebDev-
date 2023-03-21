@@ -1,0 +1,62 @@
+body {
+
+  background-color: aliceblue;
+
+  font-family: ABeeZee;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+}
+button {
+  background-color: aliceblue;
+  border: none;
+  border-radius: 24px;
+  color: black;
+  cursor: pointer;
+  font-family: ABeeZee;
+  font-size: large;
+  font-weight: bold;
+  margin: 12px;
+  padding: 16px;
+  text-align: center;
+  width: 50%;
+}
+h2 {
+  font-size: xx-large;
+  font-weight: bold;
+  margin: 12px;
+  padding: 12px;
+}
+.header {
+  padding: 24px;
+  text-align: center;
+}
+.form {
+  background-color: blanchedalmond;
+  border-radius: 12px;
+  padding: 24px;
+}
+.form-group {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  padding: 12px;
+}
+.form-group input {
+  border: none;
+  border-radius: 12px;
+  font-family: ABeeZee;
+  padding: 12px;
+  width: 50%;
+}
+.form-group label {
+  font-size: larger;
+  font-weight: bold;
+}
+.record .student-card {
+  background-color: blanchedalmond;
+  border-radius: 24px;
+  padding: 16px;
+  text-align: center;
+  margin-top: 12px;
+}
